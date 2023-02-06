@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @nguie2
 - 👀 I’m a devops/cloud engineer
 - 🌱 I’m always learning about everything that i can lay my hands on
-- 💞️ I’m looking to improve my skills hlep others but also creating something that can be worth watching
+- 💞️ I’m looking to improve my skills, help others but also creating something that can be worth watching
 - 📫 How to reach me, jeanrochangoue@gmail.com/ nguierochjunior@gmail.com
 
 <!---
