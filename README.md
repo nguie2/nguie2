@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @nguie2
-- 👀 I’m interested in making money not helping the world
-- 🌱 I’m currently learning everything that can make me rich
-- 💞️ I’m looking to collaborate on anything risky
-- 📫 How to reach me, jeanrochangoue@gmail.com
+- 👀 I’m a devops/cloud engineer
+- 🌱 I’m always learning about everything that i can lay my hands on
+- 💞️ I’m looking to improve my skills hlep others but also creating something that can be worth watching
+- 📫 How to reach me, jeanrochangoue@gmail.com/ nguierochjunior@gmail.com
 
 <!---
 nguie2/nguie2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
